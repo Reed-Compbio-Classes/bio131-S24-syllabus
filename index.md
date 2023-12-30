@@ -3,33 +3,38 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Bio131: Introduction to Computational Biology
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+High-throughput technologies produce massive amounts of data, much too large to analyze by hand. The goal of this course is to learn how to analyze DNA, RNA, and protein sequences using computers. Through a combination of foundational examples and current research questions, this course aims to demystify computer science, molecular biology, and some of the ways they intersect.
 
-More specifically, the created site:
+## About this Syllabus
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+This syllabus is a public, living document that contains all of the details for this iteration of the course. It is public because it is my goal to make every aspect of this class as transparent as possible. It is living because the course path and student interests may change; however consider this document to be a contract for the course.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+The final version of this syllabus will be set by [XXX].  All modifications during the semester will be communicated to the class in a timely manner, and will be added in a "tracked-changes" style of writing.  
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Course Details
 
-To get started with creating a site, simply:
+Lecture: MWF 10-10:50am in XXX
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Lab Sections: XXX and XXX.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Materials:
+- Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](Textbook is freely available online: https://www.bioinformaticsalgorithms.org/read-the-book).
+- Book: you will choose between one of these two books:
+  - Book1
+  - Book2
 
-----
+Moodle: XXX
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Course Support
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Student Hours with Anna (Biology 200B): XXX
+
+TAs:
+- TA1
+- TA2
+
+Drop-In Tutoring:
+
+DoJo for other academic support: everyone gets one hour a week of tutoring.
