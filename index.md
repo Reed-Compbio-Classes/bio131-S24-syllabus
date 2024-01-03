@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-<code style="color : purple">Under construction for the Spring 2024 semester. Stay tuned! </code>  
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 # Bio131: Introduction to Computational Biology
 
