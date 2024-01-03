@@ -7,6 +7,8 @@ url: https://reed-compbio-classes.github.io/
 aux_links:
   S24 Moodle: https://moodle.reed.edu/course/view.php?id=5287
 
+markdown: kramdown
+highlighter: rouge
 kramdown:
   syntax_highlighter_opts:
     block:
