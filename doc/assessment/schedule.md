@@ -5,7 +5,9 @@ nav_order: 2
 parent: Structure & Assessment
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
+```diff
++ Under construction for the Spring 2024 semester. Stay tuned!
+```
 
 ## Schedule Overview
 
