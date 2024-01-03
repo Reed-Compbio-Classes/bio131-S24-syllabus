@@ -4,7 +4,7 @@ layout: default
 nav_order: 5
 ---
 
-<code style="color : purple">Under construction for the Spring 2024 semester. Stay tuned! </code>  
+{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
 
 # Generative AI (ChatGPT) Policy
 

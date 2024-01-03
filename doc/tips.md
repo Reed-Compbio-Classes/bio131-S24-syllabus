@@ -4,7 +4,7 @@ layout: default
 nav_order: 9
 ---
 
-<code style="color : purple">Under construction for the Spring 2024 semester. Stay tuned! </code>  
+{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
 
 - **Remember the skills that you bring to the class.**  Everyone comes to Bio131 with a different set of knowledge and skills, and it might have nothing to do with biology or programming. Are you creative? Do you like to solve problems? Are you good at multitasking? Do you like to collaborate, or work independently? These (and many others) are examples of strengths you bring to Bio131.
 - **Start the programming assignments early.** The time you spend on each assignment might vary drastically, depending on how much you debug your programs.
