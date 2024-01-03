@@ -6,3 +6,20 @@ url: https://reed-compbio-classes.github.io/
 
 aux_links:
   S24 Moodle: https://moodle.reed.edu/course/view.php?id=5287
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024 Anna Ritz. Distributed by an <a href=\"https://github.com/Reed-Compbio-Classes/bio131-S24-syllabus/blob/main/LICENSE\">MIT license.</a>"
