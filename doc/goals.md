@@ -1,8 +1,10 @@
 ---
 title: Goals
 layout: default
-nav_order: 1
+nav_order: 2
 ---
+
+<code style="color : purple">Under construction for the Spring 2024 semester. Stay tuned! </code>
 
 # Goals & Objectives
 

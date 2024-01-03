@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-:hammer: :construction_worker: :wrench: <code style="color : gold">Under construction for the Spring 2024 semester. Stay tuned! </code>  :hammer: :construction_worker: :wrench:
+<code style="color : purple">Under construction for the Spring 2024 semester. Stay tuned! </code>  
 
 # Bio131: Introduction to Computational Biology
 
@@ -16,28 +16,16 @@ This syllabus is a public, living document that contains all of the details for 
 
 The final version of this syllabus will be set by [XXX].  All modifications during the semester will be communicated to the class in a timely manner, and will be added in a "tracked-changes" style of writing.  
 
-## Course Details
+## Course details
 
-Lecture: MWF 10-10:50am in XXX
+**Lecture:** MWF 10-10:50am in ETC 208
 
-Lab Sections: XXX and XXX.
+**Labs:** M 1:10-3:00 in ETC 211 and Tu 3:10-5:0 in ETC 208.
 
-Materials:
+**Materials:**
 - Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](Textbook is freely available online: https://www.bioinformaticsalgorithms.org/read-the-book).
 - Book: you will choose between one of these two books:
   - Book1
   - Book2
 
 Moodle: XXX
-
-## Course Support
-
-Student Hours with Anna (Biology 200B): XXX
-
-TAs:
-- TA1
-- TA2
-
-Drop-In Tutoring:
-
-DoJo for other academic support: everyone gets one hour a week of tutoring.

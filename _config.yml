@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Bio131 Spring 2024
+description: Introduction to Computational Biology at Reed College
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Moodle: https://moodle.reed.edu/course/view.php?id=5287
