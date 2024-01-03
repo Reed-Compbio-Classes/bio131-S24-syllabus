@@ -3,6 +3,7 @@ title: Structure & Assessment
 layout: default
 nav_order: 6
 has_children: true
+nav_fold: false
 ---
 
 {: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
