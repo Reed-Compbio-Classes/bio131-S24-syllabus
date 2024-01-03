@@ -1,5 +1,5 @@
 ---
-title: ChatGPT Policy
+title: Land Acknowledgement
 layout: default
 nav_order: 8
 ---
