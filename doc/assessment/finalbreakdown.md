@@ -1,7 +1,7 @@
 ---
 title: Grading Contract
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Structure & Assessment
 ---
 
@@ -33,4 +33,4 @@ You will communicate your course plans at multiple points throughout the semeste
 
 ## Petition for Exceptional Circumstances
 
-This grading scheme is a public contract for the entire class, so my job is to make sure that any exceptions to this contract are administered fairly. In rare cases, there may be circumstances beyond your control where you are unable to meet the contract. You must meet with me as soon as possible to make a fair and equitable arrangement (preferably before you breach the contract). You may petition for any reason, but only once over the course of the semester. 
+This grading scheme is a public contract for the entire class, so my job is to make sure that any exceptions to this contract are administered fairly. In rare cases, there may be circumstances beyond your control where you are unable to meet the contract. You must meet with me as soon as possible to make a fair and equitable arrangement (preferably before you breach the contract). You may petition for any reason, but only once over the course of the semester.
