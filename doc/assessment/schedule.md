@@ -1,5 +1,5 @@
 ---
-title: Schedule Overview
+title: Schedule
 layout: default
 nav_order: 1
 parent: Structure & Assessment

@@ -1,11 +1,11 @@
 ---
-title: Assessment Overview
+title: Contract Grading Overview
 layout: default
 nav_order: 2
 parent: Structure & Assessment
 ---
 
-## Assessment Overview
+## Overview of Contract Grading
 
 Bio131 is based on _labor based grading_, which has been extensively described and used by Asao B. Inoue at Arizona State University. For more information about labor based grading for writing classes, refer to his [webpage of labor based grading resources](https://tinyurl.com/LaborBasedGrading). In the Spring 2024 iteration of Bio131, we are going to use aspects of labor based grading and contract negotiations (adapted from Asao B. Inoue's 2023 template).
 

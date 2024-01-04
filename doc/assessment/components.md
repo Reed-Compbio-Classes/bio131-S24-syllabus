@@ -1,13 +1,11 @@
 ---
-title: Assessment Components
+title: Types of Work
 layout: default
 nav_order: 3
 parent: Structure & Assessment
 ---
 
-## Assessment Components
-
-Refer to the [schedule overview](schedule.md) and find all details on the Moodle page. Any changes to this page (and other pages) will be documented in the [change log](changelog.md)
+## Types of Work
 
 There are three types of work that will be done outside of class: work on **biology and computational thinking concepts**, work on **programming skills**, and work on **biology and society**. All the work will be assessed as "complete," "partially complete," or "missing." Additionally, each theme below includes a number of choose-your-own (CYO) assignments. These are explained in the [final breakdown page](finalbreakdown.md).
 

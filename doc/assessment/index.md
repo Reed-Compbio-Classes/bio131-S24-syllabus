@@ -3,7 +3,7 @@ title: Structure & Assessment
 layout: default
 nav_order: 6
 has_children: true
-nav_fold: false
+nav_fold: true
 ---
 
 # Course Structure & Assessment
