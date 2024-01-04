@@ -5,8 +5,6 @@ nav_order: 2
 parent: Structure & Assessment
 ---
 
-$${\color{blue}Under construction for the Spring 2024 semester. Stay tuned!}$$
-
 ## Schedule Overview
 
 This schedule is flexible and the assignment timelines are approximate; refer to the Moodle for up-to-date information and a full schedule.
