@@ -4,9 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
 # Bio131: Introduction to Computational Biology
 
 High-throughput technologies produce massive amounts of data, much too large to analyze by hand. The goal of this course is to learn how to analyze DNA, RNA, and protein sequences using computers. Through a combination of foundational examples and current research questions, this course aims to demystify computer science, molecular biology, and some of the ways they intersect.

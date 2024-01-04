@@ -4,8 +4,6 @@ layout: default
 nav_order: 7
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!  
-
 # Learning Environment
 
 Bio131 is a combination of biology and computer science, and each field has been claimed to be free of racism and prejudice.  This is simply not true.  Historically, biological discoveries and advances in computer science have been dominated by privileged voices, namely those of white men.  Computational biology, while more recent of a field, also lacks diversity along many important axes (including race, gender, nationality, class, sexuality, religion, ability, etc.).  To foster an inclusive learning environment:

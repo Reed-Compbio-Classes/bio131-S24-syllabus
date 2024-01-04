@@ -4,8 +4,6 @@ layout: default
 nav_order: 2
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
-
 # Goals & Objectives
 
 In Bio131, you will become familiar with how cells use molecules to transfer and process information, what types of biological questions about molecules can be investigated using computers, and what limitations computational methods impose on the understanding of biology. Additionally, you will learn about one application of sequence analysis (determining genetic relatedness) and how it has influenced society and culture.

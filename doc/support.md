@@ -4,8 +4,6 @@ layout: default
 nav_order: 3
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
-
 # Course support
 
 Bio131 has a number of support systems to help you in this class. Also see the [collaboration policy](collab.md).

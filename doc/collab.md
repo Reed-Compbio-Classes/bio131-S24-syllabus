@@ -4,8 +4,6 @@ layout: default
 nav_order: 4
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!  
-
 # Collaboration Policy
 
 Computational biology is inherently a collaborative field, and there are many opportunities to work with and get help from different people within and outside of class. As an interdisciplinary course, doing work in Bio131 may lead to a few questions.  Who can you talk to? What resources can you use?  What does it mean to "cheat" while writing a program? This page describes available resources and what actions are in violation of the Honor Principle. Also see the [course support page](support.md).

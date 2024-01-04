@@ -4,8 +4,6 @@ layout: default
 nav_order: 5
 ---
 
-{: .highlight } Under construction for the Spring 2024 semester. Stay tuned!
-
 # Generative AI (ChatGPT) Policy
 
 Okay, so here's the deal. ChatGPT could do a pretty darn good job with some of the programming assignments. But the assignments are designed for _you_ to learn how to program in Python, and how to apply those skills to biological questions. The goal of this class is to never make you feel like you just have to get the answer, no matter where it comes from. If you are feeling like this, then come talk with me and/or the tutors and we will strategize a way to help you learn the content without that pressure.
