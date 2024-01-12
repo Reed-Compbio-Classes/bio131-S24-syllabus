@@ -11,6 +11,10 @@ According to the [Reed College Guidebook](https://www.reed.edu/guidebook/acad_po
 
 The eight common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B2) are designed so that if students complete them (and no other choose-your-own assignments), they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational biology. Note that if you miss any of the eight assignments, you will earn no higher than a C-.
 
+Note that, according to the [schedule](schedule.md), the common assignments will be completed by the beginning of Week 12. For the last two weeks, students can choose to revisit the common assignments that they wish to improve upon or complete one or more of the choose-your-own (CYO) assignments. The CYO assignments for each theme are listed in the [types of work page](components.md).
+
+TODO: labs, conferences, first assignment, portfolio are not counted here. I think the portfolio is the chance to justify the grade. However there needs to be time to negotiate the portfolio's contents. Timing of the deadline? 
+
 | Earned Grade | Requirements | # Missed Assignments |
 | --- | --- | --- |
 | A | Requirements for a B and at least one CYO assignment in each theme (3 total) | |

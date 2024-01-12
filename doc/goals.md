@@ -18,4 +18,4 @@ Specifically, by the end of this course:
 
 ![goals.png](../figs/goals.png)
 
-Bio131 is designed for you to pursue your own interests within the scope of these learning objectives. For this reason, you will be assessed by contract grading, which is designed to shift the power of the grade from the instructor to the student. More information about this grading assessment is provided in [XXX].
+Bio131 is designed for you to pursue your own interests within the scope of these learning objectives. For this reason, you will be assessed by contract grading, which is designed to shift the power of the grade from the instructor to the student. More information about this grading assessment is provided on the [structure & assessment](assessment/index.md) page.

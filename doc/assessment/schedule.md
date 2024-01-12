@@ -23,7 +23,7 @@ This schedule is flexible and the assignment timelines are approximate; refer to
 | Week 9 | Sequence Alignment | Book Discussion | B4: Alignment |
 | Week 10 | Sequence Alignment II | L7: Pattern Maker II | |
 | Week 11 | Sequence Alignment III | L8: While Loops | E2: Exam 2 |
-| Week 12 | Genome Rearrangements | Conferences | _Above & Beyond Work_ |
-| Week 13 | Sequencing Antibiotics | Portfolio Draft | _Above & Beyond Work_ |
-| | _Reading Period_ | | _Above & Beyond Work_ |
+| Week 12 | Genome Rearrangements | Conferences |  |
+| Week 13 | Sequencing Antibiotics | Portfolio Draft |  |
+| | _Reading Period_ | |  |
 | | _Finals Period_ | | Portfolio |
