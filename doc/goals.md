@@ -16,7 +16,7 @@ Specifically, by the end of this course:
 - You will know how to implement the algorithms by writing **computer programs** in Python, which can be run and understood by others.
 - You will learn about how genetic testing has influenced society and culture.
 
-![goals.png](figs/goals.png)
+![goals.png](../figs/goals.png)
 
 Bio131 satisfies the Group III distribution requirements, and you can find the relevant group distribution learning outcomes in the [course catalog description](https://catalog.reed.edu/preview_course_nopop.php?catoid=1&coid=121).  Note that Bio131 does **not** satisfy Group III's "Data Collection and Analysis" requirement.
 

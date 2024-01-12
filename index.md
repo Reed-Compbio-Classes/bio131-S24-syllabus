@@ -8,6 +8,10 @@ nav_order: 1
 
 High-throughput technologies produce massive amounts of data, much too large to analyze by hand. The goal of this course is to learn how to analyze DNA, RNA, and protein sequences using computers. Through a combination of foundational examples and current research questions, this course aims to demystify computer science, molecular biology, and some of the ways they intersect.
 
+## Who this class is for
+
+This class is for anyone who wants to learn about the biological questions that can be addressed with computation and gain some insight into how these computational problems are solved. Bio131 is an introductory course, assumes at least one semester of Topics in Biology (Bio101/102) concepts, and has no prerequisite programming knowledge. Students from all years and many different majors come together in this class to collectively learn about computational biology.
+
 ## About this syllabus
 
 This syllabus is a public, living document that contains all of the details for this iteration of the course. It is public because I want to make this class as transparent as possible. It is living because the course path and student interests may change. 

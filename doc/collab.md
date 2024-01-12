@@ -1,5 +1,5 @@
 ---
-title: Collab Policy
+title: Collaborations Policy
 layout: default
 nav_order: 4
 ---
