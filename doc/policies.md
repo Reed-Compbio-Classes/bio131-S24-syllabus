@@ -6,7 +6,7 @@ nav_order: 4
 
 # Course Policies
 
-There are two policies for this course: one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [generative AI](#generative-ai) (which is discouraged).
+There are two policies for this course: one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [generative AI](#generative-ai-policy) (which is discouraged).
 
 ## Collaboration Policy
 

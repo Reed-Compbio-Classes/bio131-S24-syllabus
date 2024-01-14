@@ -1,13 +1,14 @@
 ---
 title: Schedule
 layout: default
-nav_order: 1
-parent: Structure & Assessment
+nav_order: 5
 ---
 
 ## Schedule Overview
 
-This schedule is flexible and the assignment timelines are approximate; refer to the Moodle for up-to-date information and a full schedule.
+There are eight common assignments, eight programming labs, two book reflections & discussions, and two conferences (one-on-one meetings) that are scheduled in Bio131. See the [course assessment page](assessment/index.md) for more details about these types of work. 
+
+This schedule may shift and the assignment timelines are approximate; refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for up-to-date information and a full schedule.
 
 | | Lecture | Lab | Assignment |
 | --- | --- | --- | --- |
@@ -24,6 +25,6 @@ This schedule is flexible and the assignment timelines are approximate; refer to
 | Week 10 | Sequence Alignment II | L7: Pattern Maker II | |
 | Week 11 | Sequence Alignment III | L8: While Loops | E2: Exam 2 |
 | Week 12 | Genome Rearrangements | Conferences |  |
-| Week 13 | Sequencing Antibiotics | Portfolio Draft |  |
+| Week 13 | Sequencing Antibiotics | |  |
 | | _Reading Period_ | |  |
-| | _Finals Period_ | | Portfolio |
+| | _Finals Period_ | | Optional Presentations & Reflection |

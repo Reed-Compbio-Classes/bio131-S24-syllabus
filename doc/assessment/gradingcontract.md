@@ -1,7 +1,7 @@
 ---
 title: Grading Contract
 layout: default
-nav_order: 4
+nav_order: 2
 parent: Structure & Assessment
 ---
 
@@ -9,9 +9,9 @@ parent: Structure & Assessment
 
 According to the [Reed College Guidebook](https://www.reed.edu/guidebook/acad_pol/eval_student.html), a grade of an A denotes excellent work, a grade of B denotes above average work, a grade of C denotes average work, a grade of D denotes minimal but passing amount of work, and a grade of F denotes not a passing amount of work.
 
-The eight common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B2) are designed so that if students complete them (and no other choose-your-own assignments), they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational biology. Note that if you miss any of the eight assignments, you will earn no higher than a C-.
+The eight common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B2) and the required in-class components (completing the two conference meetings, attending the final exam slot, and completing 6 of 8 programming labs) are designed so that if students complete them, they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational biology. Note that if you miss any of the eight common assignments, you will earn no higher than a C-.
 
-Note that, according to the [schedule](schedule.md), the common assignments will be completed by the beginning of Week 12. For the last two weeks, students can choose to revisit the common assignments that they wish to improve upon or complete one or more of the choose-your-own (CYO) assignments. The CYO assignments for each theme are listed in the [types of work page](components.md).
+Note that, according to the [schedule](schedule.md), the common assignments will be completed by the beginning of Week 12. For the last two weeks, students can choose to revisit the common assignments they wish to improve upon or complete one or more of the choose-your-own (CYO) assignments. The CYO assignments for each theme are listed in the [types of work page](components.md).
 
 TODO: labs, conferences, first assignment, portfolio are not counted here. I think the portfolio is the chance to justify the grade. However there needs to be time to negotiate the portfolio's contents. Timing of the deadline? 
 
@@ -31,10 +31,11 @@ TODO: labs, conferences, first assignment, portfolio are not counted here. I thi
 You will communicate your course plans at multiple points throughout the semester.
 
 - Grading Contract Assignment: in the first week, you will share your reasons for taking the course, what success in the course means to you, and your plans for achieving that success.
-- Conferences: In weeks 7 and 12, you will meet with me one-on-one during the lab slot to reflect on your course goals and talk about any of the themes / assignments in the class. In Week 7, we will negotiate your mid-term grade (which will be an "S" for satisfactory work). In week 12, we will negotiate your final grade based on your planned choose-your-own assignments.
-- Final Portfolio: During finals week, you will submit a document that reflects on the course learning objectives, your personal goals, and points to specific assignments that illustrate your learning gains in the three general themes of the course (biology & computational thinking, programming skills, and biology & society). More information about the final portfolio is found on the [next page](portfolio.md).
+- Conferences: In weeks 7 and 12, you will meet with me one-on-one during the lab slot to reflect on your course goals and talk about any of the themes / assignments in the class. In Week 7, we will negotiate your mid-term grade (which will be an "S" for satisfactory work). In week 12, we will negotiate your final grade based on your planned CYO assignments.
+- You are welcome to talk with me any time about your progress in the course and how it aligns with your goals. Communication is key.
 
+## Illness and Exceptional Circumstances
 
-## Petition for Exceptional Circumstances
+There may be cases where you cannot attend class for stretches at a time (due to illness, for example). In this case, email me to strategize a successful plan for learning the material. If you miss multiple classes and do not email me, I may reach out to make sure you are OK. 
 
-This grading scheme is a public contract for the entire class, so my job is to make sure that any exceptions to this contract are administered fairly. In rare cases, there may be circumstances beyond your control where you are unable to meet the contract. You must meet with me as soon as possible to make a fair and equitable arrangement (preferably before you breach the contract). You may petition for any reason, but only once over the course of the semester.
+In rare cases, there may be circumstances beyond your control where you are unable to meet the expectations outlined in this syllabus. Please email me as soon as you can to strategize a plan for completing all parts of the course. There are also ways for to take an emergency, short-term leave from the college - this is for exceptional circumstances, and it allows you to focus on _you_ and have the Student Life communicate with your teachers on your behalf. Reach out to careteam@reed.edu or Steve Abrahão, the Associate Dean of Students for Academic Life (sabrahao@reed.edu).
