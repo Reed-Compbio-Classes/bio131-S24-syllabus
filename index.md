@@ -10,7 +10,7 @@ High-throughput technologies produce massive amounts of data, much too large to 
 
 ## Who this class is for
 
-This class is for anyone who wants to learn about the biological questions that can be addressed with computation and gain some insight into how these computational problems are solved. This class is also for students who want to learn about the interplay between biological knowledge and cultural knowledge and practices. Bio131 is an introductory course, assumes at least one semester of Topics in Biology (Bio101/102) concepts, and has no prerequisite programming knowledge. Students from all years and many different majors come together in this class to collectively learn about computational biology.
+This class is for anyone who wants to learn about the biological questions that can be addressed with computation and gain some insight into how these computational problems are solved. This class is also for students who want to explore how biological advances might affect or reflect societal values. Bio131 is an introductory course, assumes at least one semester of Topics in Biology (Bio101/102) concepts, and has no prerequisite programming knowledge. Students from all years and many different majors come together in this class to collectively learn about computational biology.
 
 ## About this syllabus
 
