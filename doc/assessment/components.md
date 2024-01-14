@@ -1,8 +1,8 @@
 ---
 title: Types of Work
 layout: default
-nav_order: 1
-parent: Structure & Assessment
+nav_order: 2
+parent: Course Assessment
 ---
 
 ## Types of Work

@@ -1,8 +1,8 @@
 ---
 title: Grading Contract
 layout: default
-nav_order: 2
-parent: Structure & Assessment
+nav_order: 3
+parent: Course Assessment
 ---
 
 ## Grading Contract
@@ -20,7 +20,7 @@ TODO: labs, conferences, first assignment, portfolio are not counted here. I thi
 | A | Requirements for a B and at least one CYO assignment in each theme (3 total) | |
 | A- | Requirements for a B and at least two CYO assignments | 0 |
 | B+ | Requirements for a B and one CYO assignment | 0 |
-| **B** | **Complete all 8 assignments** | **0** |
+| **B** | **Complete eight common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B2) and the required in-class components (two conference meetings, attending the final exam slot, and completing 6 of 8 programming labs)** | **0** |
 | B- | Complete 7 of 8 assignments, partially complete one assignment | 0 |
 | C+ | Complete 6 of 8 assignments, partially complete two assignments in different themes | 0 |
 | C | Complete 6 of 8 assignments, partially complete two assignments in same theme | 0 |
