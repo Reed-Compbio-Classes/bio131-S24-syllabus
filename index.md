@@ -18,7 +18,7 @@ This syllabus is a public, searchable document that contains all of the details 
 
 - [Goals](goals.md): the course goals and learning objectives.
 - [Support](support.md): the support systems offered in the course.
-- [Policies](policies.md): policies surrounding collaboration and generative AI (e.g., ChatGPT).
+- [Policies](policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
 - [Structure & Assessment](assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
 - [Learning Environment](environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Land Acknowledgement](acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
