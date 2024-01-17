@@ -16,15 +16,15 @@ This class is for anyone who wants to learn about the biological questions that 
 
 This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio131 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. The main parts of the syllabus are:
 
-- [Goals](goals.md): the course goals and learning objectives.
-- [Support](support.md): the support systems offered in the course.
-- [Policies](policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
-- [Structure & Assessment](assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
-- [Learning Environment](environment.md): my commitment to making the classroom an inclusive learning environment.
-- [Land Acknowledgement](acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
-- [Keys for Success](tips.md): tips for succeeding in the course.
+- [Goals](doc/goals.md): the course goals and learning objectives.
+- [Support](doc/support.md): the support systems offered in the course.
+- [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
+- [Structure & Assessment](doc/assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
+- [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
+- [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
+- [Keys for Success](doc/tips.md): tips for succeeding in the course.
 
-The final version of this syllabus will be set by Thursday, January 18.  Any modifications during the semester will be noted in the [change log](changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](assessment/index.md) in class before the syllabus is altered.
+The final version of this syllabus will be set by Thursday, January 18.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
 
 ## Course details
 
