@@ -16,10 +16,10 @@ This class is for anyone who wants to learn about the biological questions that 
 
 This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio131 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. The main parts of the syllabus are:
 
-- [Goals](doc/goals.md): HEY the course goals and learning objectives.
-- [Support](support2.md): the support systems offered in the course.
-- [Policies](policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
-- [Structure & Assessment](assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
+- [Goals](doc/goals.md): the course goals and learning objectives.
+- [Support](doc/support.md): the support systems offered in the course.
+- [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
+- [Structure & Assessment](doc/assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
@@ -40,7 +40,7 @@ The final version of this syllabus will be set by Thursday, January 18.  Any mod
   
 ## Communication & Technology
 
-**Official communications about all course materials and assignments will be done through the [Moodle page]((https://moodle.reed.edu/course/view.php?id=5287)).** 
+**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287).** 
 
 The course content may be adjusted - check your email every day to stay updated. Additionally,
 - We will use GitHub Classroom and GitHub Codespaces for the programming assignments (you will be taught how to use it).

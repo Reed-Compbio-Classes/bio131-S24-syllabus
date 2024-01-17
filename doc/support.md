@@ -12,20 +12,17 @@ Bio131 has a number of support systems to help you in this class. Also see the [
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 
-## Teaching Assistants (TAs)
+## Teaching Assistant (TA)
 
-Each lab section will have a TA that will help you with the labs and any other in-lab work. They do not grade or do other course tasks -- their only goal is to help you with your work.
-
-- Altaf Barelvi (he/him, Lewis & Clark '23) is a post-baccalaureate researcher here at Reed.
-- Mei Tate (she/her, '25) is a junior CS major; she took Bio131 the last time it was offered.
+Altaf Barelvi (he/him, Lewis & Clark '23) is a post-baccalaureate researcher here at Reed. Altaf will be in the lab sections to will help you with the labs and any other in-lab work. He will not grade or do other course tasks -- Altaf's only goal is to help you with your work.
 
 ## Tutoring (DoJo)
 
-Tutoring is offered by Accademic Support Services, and gives students additional times outside of class to get help with assignments and the course material.
+Tutoring is offered by Accademic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring.  _I am currently working to find tutors who will be available for one-on-one tutoring._ Once we have tutors in place, you can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles).
 
-**Drop-In Tutoring:** Mei Tate will hold drop-in tutoring hours on Thursday evenings (XXX).
+## Community Sessions
 
-**One-on-One Tutoring.** Each student can get up to one hour per week _per class_ of individual tutoring. Mei is also available for one-on-one tutoring. If you cannot schedule a time with Mei or you need more support, please talk with me. You can sign up for individual tutoring on the [Reed tutoring app](https://iris.reed.edu/tutor/tutors/profiles)
+If students are interested, I will reserve a room in the Biology building for evening collaborative sessions to work on the assignments together. These sessions are in lieu of drop-in tutoring this year - I encourage you to do the work together because you can help each other out (especially if you get stuck) and programming together can be fun. 
 
 ## Academic Accommodations
 
@@ -39,4 +36,4 @@ In rare cases, there may be circumstances beyond your control where you are unab
 
 ## Obligated Reporting
 
-I am happy to talk with you about anything that concerns you, but note that I (and many faculty) are **obligated reporters**, who must report possible violations of the Title IX and/or DHSM policies, which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is availble on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html)
+I am happy to talk with you about anything that concerns you, but note that I (and many faculty) are **obligated reporters**, who must report possible violations of the Title IX and/or DHSM policies, which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is availble on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html).
