@@ -16,7 +16,7 @@ This class is for anyone who wants to learn about the biological questions that 
 
 This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio131 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. The main parts of the syllabus are:
 
-- [Goals]({% link /doc/support.md %}): HEY the course goals and learning objectives.
+- [Goals]({% link doc/support.md %}): HEY the course goals and learning objectives.
 - [Support](doc/support.md): the support systems offered in the course.
 - [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
 - [Structure & Assessment](doc/assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
