@@ -16,10 +16,10 @@ This class is for anyone who wants to learn about the biological questions that 
 
 This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio131 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. The main parts of the syllabus are:
 
-- [Goals]({% link doc/support.md %}): HEY the course goals and learning objectives.
-- [Support](doc/support.md): the support systems offered in the course.
-- [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
-- [Structure & Assessment](doc/assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
+- [Goals](doc/goals.md): HEY the course goals and learning objectives.
+- [Support](support2.md): the support systems offered in the course.
+- [Policies](policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
+- [Structure & Assessment](assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
