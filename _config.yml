@@ -17,10 +17,11 @@ title: Bio131 S24 DRAFT
 description: Introduction to Computational Biology at Reed College
 theme: just-the-docs
 url: "https://reed-compbio-classes.github.io/bio131-S24-syllabus/"
+baseurl: "" # the subpath of your site, e.g. /blog
 
 #title: Just the Docs
 #description: A Jekyll theme for documentation
-#baseurl: "" # the subpath of your site, e.g. /blog
+
 #url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
 #repository: just-the-docs/just-the-docs # for github-metadata
 
@@ -111,3 +112,8 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2024 Anna Ritz. Distributed by an <a href=\"https://github.com/Reed-Compbio-Classes/bio131-S24-syllabus/blob/main/LICENSE\">MIT license.</a>"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
