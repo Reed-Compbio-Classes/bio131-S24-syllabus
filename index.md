@@ -24,7 +24,7 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
 
-The final version of this syllabus will be set by Thursday, January 18.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
+The final version of this syllabus will be set by Monday, January 22.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
 
 ## Course details
 
