@@ -17,7 +17,7 @@ Note that, according to the [schedule](../schedule.md), the common assignments w
 
 The table below is based off of requirements for a B. To earn higher than a B, you will complete additional CYO assignments. If you partially complete assignments, miss assignments, or miss in-class components, that reduces your grade. The number of missed assignments and in-class components are considered first. For example:
 - If you miss one assignment, you will earn no higher than a C- (even if all other work is complete). 
-- If you miss one of the in-class components, you will earn no higher than a B+ (even if all other work is complete).
+- If you miss one of the in-class components, you will earn no higher than a B- (even if all other work is complete).
 - Suppose you partially complete an exam and a programming assignment, complete the remaining assignments, and miss 2 in-class components. Missing the 2 in-class components means you will earn a C, even though the two partially complete assignments are in different themes.
 - Suppose you partially complete 3 assignments, but have no missing assignments or missing in-class components. You will earn a C-, even though you're not missing work. 
 
@@ -31,7 +31,7 @@ Remember, you will have time near the end of the semester to revisit any assignm
 | **B** | **Complete eight common assignments (exams E1-E2, programming assignments P1-P4, and book reflections B1-B2) and the four in-class components (two conference meetings, attending the final exam slot, and completing 6 of 8 programming labs)** | **0** | **0** |
 | B- | Requirements for a B, except 1 assignment is partially completed | 0 | 1 |
 | C+ | Requirements for a B, except 2 assignments in different themes are partially completed | 0 | 1 |
-| C | Requirements for a B, except up to 2 assignments in the same theme are partially completed | 0 | 2 |
+| C | Requirements for a B, except 2 assignments in the same theme are partially completed | 0 | 2 |
 | C- | Requirements for a B, except up to 3 assignments are partially completed | 1 | 2 |
 | D | Requirements for a B, except up to 4 assignments are partially completed | 2 | 3 |
 | F | Requirements for a D are not met | >2 | >3 |
