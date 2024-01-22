@@ -10,25 +10,25 @@ There are four policies for this course: one for [attendance](#attendance-policy
 
 ## Attendance Policy
 
-The purpose of the in-class components is to learn the material in the lecture time (through a combination of lectures and activities) and to get a chance to implement core programming concepts in the lab time (with the support of myself, the TA, and other students). All lecture and lab materials will be posted to the Moodle before (or, in the case of slides, shortly after) the lecture or lab. However, listening to the delivery of the materials and working through the activities with other students will help you learn the content of the course much faster.
+The purpose of the in-class components is to learn the material in the lecture time (through a combination of lectures and activities) and to get a chance to implement core programming concepts in the lab time (with the support of myself, the TA, and other students). All lecture and lab materials will be posted to the Moodle before (or, in the case of slides, shortly after) the lecture or lab. Listening to the delivery of the materials and working through the activities with other students will help you learn the content of the course much faster.
 
-- You should attend and fully participate in the scheduled lecture section. 
-- You should attend and fully participate in the two scheduled book discussions during the scheduled lab sections.
-- You should have two one-on-one meetings with me during the scheduled lab sections. 
+- You should attend and fully participate in the scheduled lectures. 
+- You should attend and fully participate in the two scheduled book discussions during the scheduled lab section.
+- You should have two one-on-one meetings with me during the scheduled lab section. 
 - You should complete the scheduled labs, and I strongly encourage you to attend the labs to complete them during your lab section. If you decide to complete them on your own, you must talk with me about your plan first.
 
-There is no penalty for missing in-class components, but you should email me if something is preventing you from attending more than one class/lab. Please see "Illness and Exceptional Circumstances" on the [support page](#support.md). If you miss multiple classes, I may reach out to make sure you are OK. Communication is key.
+There is no penalty for missing in-class components, but you should email me if something is preventing you from attending more than one class/lab. Please see "Illness and Exceptional Circumstances" on the [support page](support.md). If you miss multiple classes, I may reach out to make sure you are OK. Communication is key.
 
 
 ### The Main Takeaway: There is no penalty for missing class, but attending and participating is expected and will set you up for success.
 
 ## Deadline Policy
 
-The eight common assignments (which are outlined on the [types of work](#components.md) page) all have deadlines. You can see when these assignments are started on the [course schedule overview](#schedule.md); refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for a detailed schedule with deadlines. 
+The eight common assignments (which are outlined on the [types of work](assessment/components.md) page) all have deadlines. Refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287) for a detailed schedule with deadlines. 
 
 The purpose of these deadlines is for you to complete the assignments at a steady pace in the first 11 weeks of the semester as you learn the biology, programming, and societal aspects of the course. The lectures and activites are carefully designed so the common assignments require the skills and knowledge that you learn in the lectures. **You should submit your assignments by the posted deadlines.** You have an opportunity to revise _all_ of the common assignments, so you should submit what you have by the deadline, even if it is incomplete. My feedback will help you in your revision of the work.
 
-The last two weeks of the semester are designated for choose-your-own (CYO) assignments. However, you may decide to use this time to complete any common assignments that are missing or partially completed. Refer to the [grading contract](gradingcontract.md) for more information.
+The last two weeks of the semester are designated for choose-your-own (CYO) assignments. However, you may decide to use this time to complete any common assignments that are missing or partially completed. Refer to the [grading contract](assessment/gradingcontract.md) for more information.
 
 Please note, though, that if you routinely submit partial work by the deadline you will end up having to complete those past-due assignments at the same time as you complete the upcoming assignments. This might be very challenging, especially if you are working on multiple programming assignments at the same time. The last two weeks are _not_ enough time to complete all of the common assignments. If you are feeling overwhelmed, come talk to me to strategize a plan for successfully completing the common assignments.
 
@@ -36,24 +36,24 @@ Please note, though, that if you routinely submit partial work by the deadline y
 
 ## Collaboration Policy
 
-Computational biology is inherently a collaborative field, and there are many opportunities to work with and get help from different people within and outside of class. As an interdisciplinary course, doing work in Bio131 may lead to a few questions.  Who can you talk to? What resources can you use?  What does it mean to "cheat" while writing a program? This section describes available resources and what actions are in violation of the Honor Principle. Also see the [course support page](support.md).
+Computational biology is inherently a collaborative field, and there are many opportunities to work with and get help from different people within and outside of class. As an interdisciplinary course, doing work in Bio131 may lead to a few questions.  Who can you talk to? What resources can you use?  What does it mean to "cheat" while writing a program? This section describes available resources and what actions are in violation of the Honor Principle. 
 
-1. You can ask **anyone** (Anna, tutors, other students) **anything** during lectures and labs.
-2. You can **always** come to posted student hours or DoJo tutoring hours.
+1. You can ask **anyone** (Anna, TAs, other students) **anything** during lectures and labs.
+2. You can **always** come to posted student hours or email Anna to meet outside of those hours.
 3. You can **always** look up how to use specific data types, syntax, and built-in functions we have learned in Python.
 
 **Exams** will have an in-class, collaborative component and a take-home, individual component. You can work with other students on the in-class component, but you should do the take-home component on your own. Follow the instructions provided with the exam about what resources you can use during the exam.
 
 Working together is encouraged for the **programming assignments.** You can talk to other students about the homework as much as you like, but you must write your own programs (even if you do it side-by-side). You need to "cite" who you work with - see below for more information.
 
-You are encouraged to talk with others about the **book assignment**; the reflections should be your own writing.
+You are encouraged to talk with others about the **book assignments**; the reflections should be your own writing.
 
-#### Plagiarism when programming
+### Plagiarism when programming
 
 Code plagiarism is a real thing.  Just like when writing papers, there is a way to cite others' work.  Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source - **always write your code in your own style.**  You have a lot of flexibility in naming variables, including print statements and comments in your code.
 
-1. The early programming assignments may have instructions to copy code exactly; in these examples, many students will have identical code, which is fine.  If you are uncertain about a homework, ask me.
-2. For the larger programming assignments, your code may look similar to others if you work side by side.  If you have extensive discussions with me, tutors, or students, add their names as comments to the header of the file. For example,
+1. The early programming assignments may have instructions to copy code exactly; in these examples, many students will have identical code, which is fine.  If you are uncertain about an assignment, ask me.
+2. Your code may look similar to others if you work side by side.  If you have extensive discussions with me, TAs, or students, add their names as comments to the top of the file. For example,
 
 ```
  # Anna helped me begin problem 2
@@ -61,7 +61,7 @@ Code plagiarism is a real thing.  Just like when writing papers, there is a way 
  # I helped Jane out with problem 5.
 ```
 
-Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, this will help us determine why some code might look similar.
+Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
 
 ### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments.
 

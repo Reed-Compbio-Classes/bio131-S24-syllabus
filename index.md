@@ -10,7 +10,7 @@ High-throughput technologies produce massive amounts of data, much too large to 
 
 ## Who this class is for
 
-This class is for anyone who wants to learn about the biological questions that can be addressed with computation and gain some insight into how these computational problems are solved. This class is also for students who want to explore how biological advances might affect or reflect societal values. Bio131 is an introductory course, assumes at least one semester of Topics in Biology (Bio101/102) concepts, and has no prerequisite programming knowledge. Students from all years and many different majors come together in this class to collectively learn about computational biology.
+This class is for anyone who wants to learn about biological questions that can be addressed with computation and gain insight into how these computational problems are solved. This class is also for students who want to explore how biological advances might affect or reflect societal values. Bio131 is an introductory course, assumes at least one semester of Topics in Biology (Bio101/102) concepts, and has no prerequisite programming knowledge. Students from all years and many different majors come together in this class to collectively learn about computational biology.
 
 ## About this syllabus
 
@@ -19,7 +19,8 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Goals](doc/goals.md): the course goals and learning objectives.
 - [Support](doc/support.md): the support systems offered in the course.
 - [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and generative AI (e.g., ChatGPT).
-- [Structure & Assessment](doc/assessment/index.md): a schedule overview and a detailed explanation of the contract grading in the course.
+- [Schedule](doc/schedule.md): an overview of the course topics and assignemnts.
+- [Assessment](doc/assessment/index.md): a detailed explanation of the contract grading in the course.
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Land Acknowledgement](doc/acknowledgement.md): an acknowledgement that Reed College rests on territory belonging to Indigenous peoples.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
@@ -28,9 +29,11 @@ The final version of this syllabus will be set by Monday, January 22.  Any modif
 
 ## Course details
 
+**Instructor:** Anna Ritz (Biology 200B, see the [support](docs/support.md) page for student hours)
+
 **Lecture:** MWF 10-10:50am in ETC 208
 
-**Labs:** M 1:10-3:00 in ETC 211 and Tu 3:10-5:0 in ETC 208.
+**Labs:** M 1:10-3:00 in ETC 211 and Tu 3:10-5:00 in ETC 208.
 
 **Materials:**
 - Textbook: Bioinformatics Algorithms by Pavel Pevzner and Philip Compeau. The chapters we will cover in class are [freely available online](https://www.bioinformaticsalgorithms.org/read-the-book). The textbook is also available at the library and in the bookstore.
@@ -42,7 +45,7 @@ The final version of this syllabus will be set by Monday, January 22.  Any modif
 
 **Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5287).** 
 
-The course content may be adjusted - check your email every day to stay updated. Additionally,
-- We will use GitHub Classroom and GitHub Codespaces for the programming assignments (you will be taught how to use it).
-- There will be a Google Calendar with deadlines, if you would like to add it to your calendaring system.
-- Students can find optional challenge problems on [Rosalind](https://rosalind.info/problems/locations/), which has a [textbook track](https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track) that follows the class textbook. Come talk to me if you would like to explore this resource and I can help you get started.
+- Check your email every day to stay updated.
+- We will use GitHub and GitHub Codespaces for the programming assignments (you will be taught how to use it).
+- We will use Moodle for some assignments (e.g., the starter assignment and the book reflections).
+- If you have a question, others likely have the same question. Reach out at any time to me at aritz@reed.edu.

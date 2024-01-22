@@ -6,11 +6,13 @@ nav_order: 3
 
 # Course support
 
-Bio131 has a number of support systems to help you in this class. Also see the [collaboration policy](collab.md).
+Bio131 has a number of support systems to help you in this class. 
 
-## Student Hours
+## Student Hours: Tu 10-11 & Th 3-4
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
+
+If many students cannot make these posted times, I may shift my student hours.
 
 ## Teaching Assistant (TA)
 
@@ -26,7 +28,7 @@ If students are interested, I will reserve a room in the Biology building for ev
 
 ## Academic Accommodations
 
-Please discuss any documented accommodations with me, especially those that include extensions on assignments. Disability Accommodation Notification Letters can be obtained from [Disability & Accessibility Resources](https://www.reed.edu/disability-resources/).  All discussions will remain confidential.  
+Please discuss any documented accommodations with me. Disability Accommodation Notification Letters can be obtained from [Disability & Accessibility Resources](https://www.reed.edu/disability-resources/).  All discussions will remain confidential.  
 
 ## Illness and Exceptional Circumstances
 
@@ -36,4 +38,4 @@ In rare cases, there may be circumstances beyond your control where you are unab
 
 ## Obligated Reporting
 
-I am happy to talk with you about anything that concerns you, but note that I (and many faculty) are **obligated reporters**, who must report possible violations of the [Title IX](https://www.reed.edu/governance/title-ix-policy/) and/or [DHSM](https://www.reed.edu/guidebook/comm_pol/dhsm_policy.html) policies, which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is availble on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html).
+I am happy to talk with you about anything that concerns you, but note that I (and many faculty) are obligated reporters who must report possible violations of the [Title IX](https://www.reed.edu/governance/title-ix-policy/) and [DHSM](https://www.reed.edu/guidebook/comm_pol/dhsm_policy.html) policies which govern discrimination and harassment on the basis of sex, gender, and gender identity. Confidential resources are available at Health & Counseling Services and through the SHARE program; more information is available on [this page](https://www.reed.edu/student-life/concerned/confidentiality-obligatory-reporting.html).

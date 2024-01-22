@@ -24,7 +24,7 @@ The purpose of the take-home component is to demonstrate your knowledge about th
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | In-Class Component | You submit answers to the questions | N/A | You do not submit answers to the questions |
-| Take-Home Component | You pass all questions | You pass 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
+| Take-Home Component | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
 
 #### CYO Assignments
 
@@ -34,15 +34,15 @@ The purpose of the take-home component is to demonstrate your knowledge about th
 
 ### 2. Programming Skills
 
-Bio131 is designed to introduce Python programming as a way to implement solutions to computational problems. There is no expectation of programming knowledge prior to this course - everything you need will be taught and practiced in lectures and labs. We also have lots of built-in support for the class - see the [support page](support.md) for some resources.
+Bio131 is designed to introduce Python programming as a way to implement solutions to computational problems. There is no expectation of programming knowledge prior to this course - everything you need will be taught and practiced in lectures and labs. We also have lots of built-in support for the class - see the [support page](../support.md) for some resources.
 
-The work for this theme consists of four programming assignments (P1-P4), some of which are multi-week assignments. The purpose of these assignments is to demonstrate your knowledge of Python programming and your understanding of how biological questions can be posed and answered using computers. Collaboration is highly encouraged for this type of outside work - refer to the [collaboration policy](#collaboration-policy) for more information.
+The work for this theme consists of four programming assignments (P1-P4), some of which are multi-week assignments. The purpose of these assignments is to demonstrate your knowledge of Python programming and your understanding of how biological questions can be posed and answered using computers. Collaboration is highly encouraged for this type of outside work - refer to the [collaboration policy](../policies.md#collaboration-policy) for more information.
 
 Each programming assignment has multiple tests that check the outputs of your programs - these are called _unit tests_ and they are automatically run when you submit your assignment in GitHub Classroom. The criteria for success corresponds to how many tests your code passes. You can resubmit any of the programming assignments at any time, including after getting feedback. It is extremely important that your code runs without errors - note that if your code does not run because of one or more errors it does not pass any tests and will be considered Missing. 
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| P1: Python Practice | 9 out of 10 tests pass | The code runs and 3-8 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| P1: Python Practice | 9 or more out of 10 tests pass | The code runs and 3-8 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 | P2: Central Dogma | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 | P3: Motif Finding | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 | P4: Alignment | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
@@ -77,16 +77,17 @@ The work for this theme consists of two written reflections (B1 and B2) followed
 
 ### 4. In-Class Components
 
-In addition to the three themes of outside work, labor is also done in class.
+In addition to the three themes of outside work, labor is also done in class. There are four additional pieces of work (which are marked either "completed" or "missing").
 
-- There are two conferences (C1 & C2) which are lab sections reserved for scheduling one-on-one meetings with me. We will take this time to reflect on your course goals and talk about any of the themes / assignments in the class. These must be completed (in the sense that you have two one-on-one meetings with me; if you cannot meet during the scheduled time we will reschedule).
+- There are two conferences which are lab sections reserved for scheduling one-on-one meetings with me. We will take this time to reflect on your course goals and talk about any of the themes / assignments in the class. These must be completed (in the sense that you have two one-on-one meetings with me; if you cannot meet during the scheduled time we will reschedule).
 - During finals week, there will be a finals slot reserved for short presentations from your colleagues. You are required to attend this finals slot (and you can choose to present something - see the CYO assignment below).
-- There are eight programming labs (L1-L8), where you will work on shorter pieces of code that help you prepare for the programming assignments. The purpose of these labs are to prepare you for the programming assignments and give you additional insight into the lecture content. In many cases, the labs are components of the programming assignments. Lab time is also a place where the TA and I will be available to help with any programming issues you face. You must complete 6 of the 8 programming labs (by submitting them - they need not be correct).
+- You must complete six of the eight programming labs (L1-L8). Programming labs are an opportunity to work on shorter pieces of code that help you prepare for the programming assignments. The purpose of these labs are to prepare you for the programming assignments and give you additional insight into the lecture content. In many cases, the labs are components of the programming assignments. Lab time is also a place where the TA and I will be available to help with any programming issues you face. Note that you can submit labs that are not complete - the goal here is that you have spent an hour or so working through the material. 
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| Programming Lab | You submit the programming lab | N/A | You do not submit the programming lab |
-
+| Conference (x2) | You meet with me one-on-one | N/A | You don't meet with me one-on-one |
+| Finals Slot | You attend the finals slot | N/A | You don't attend the finals slot |
+| Programming Lab | You submit the programming lab (which is either complete or you  worked on it for at least an hour) | N/A | You do not submit the programming lab (meaning you did not work on it for at least an hour) |
 
 #### CYO Assignment
 
