@@ -25,6 +25,7 @@ The purpose of the take-home component is to demonstrate your knowledge about th
 | -- | -- | -- | -- |
 | In-Class Component | You submit answers to the questions | N/A | You do not submit answers to the questions |
 | Take-Home Component | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
+| **Exam Total** | Both components are complete | The take-home component is partially complete and the in-class component is complete | One or both of the components are missing |
 
 ### CYO Assignments
 
@@ -42,10 +43,10 @@ Each programming assignment has multiple tests that check the outputs of your pr
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| P1: Python Practice | 9 or more out of 10 tests pass | The code runs and 3-8 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
-| P2: Central Dogma | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
-| P3: Motif Finding | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
-| P4: Alignment | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| **P1: Python Practice** | 9 or more out of 10 tests pass | The code runs and 3-8 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| **P2: Central Dogma** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| **P3: Motif Finding** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| **P4: Alignment** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 
 _Note_: The number of tests are approximate, and will be updated when the assignments are finalized.
 
@@ -67,6 +68,7 @@ The work for this theme consists of two written reflections (B1 and B2) followed
 | -- | -- | -- | -- |
 | Written Reflection | You write 250 or more words in response to the writing prompt | You write fewer than 250 words in response to the writing prompt or you submit the assignment after the in-lab discussion | You do not submit the assignment |
 | Discussion | You attend lab and discuss the in-lab prompt, or you cannot attend lab and you write an additional 750 words on the in-lab prompt | N/A | You do not attend the lab and you do not submit the additional reflection |
+| **Book Assignment Total** | The reflection and the discussion are complete | The reflection is partially complete and the discussion is complete | One or both of the reflection and the discussion are missing | 
 
 ### CYO Assignments
 
@@ -87,7 +89,7 @@ In addition to the three themes of outside work, labor is also done in class. Th
 | -- | -- | -- | -- |
 | Conference (x2) | You meet with me one-on-one | N/A | You don't meet with me one-on-one |
 | Finals Slot | You attend the finals slot | N/A | You don't attend the finals slot |
-| Programming Lab | You submit the programming lab (which is either complete or you  worked on it for at least an hour) | N/A | You do not submit the programming lab (meaning you did not work on it for at least an hour) |
+| Programming Labs | You submit 6 of the 8 programming labs (which are either complete or you worked each one for at least an hour) | N/A | You submit 5 or fewer programming labs |
 
 #### CYO Assignment
 
