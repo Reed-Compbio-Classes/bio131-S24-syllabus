@@ -5,13 +5,13 @@ nav_order: 2
 parent: Course Assessment
 ---
 
-## Types of Work
+# Types of Work
 
 There are three types of work that will be done outside of class: work on **biology and computational thinking concepts**, work on **programming skills**, and work on **biology and society**. In addition to these three themes, there is also some in-class work that will count towards your grade. All work will be assessed as "complete," "partially complete," or "missing" according to the criteria below. 
 
 Each section also includes a number of choose-your-own (CYO) assignments. You will have time to complete one or more of the CYO assignments near the end of the semester; they are explained in more detail in the [grading contract](gradingcontract.md).
 
-### 1. Biology and Computational Thinking
+## 1. Biology and Computational Thinking
 
 In Bio131, you will learn about biological sequences (DNA, RNA, and protein), the relationships among these molecules, and some biological questions that researchers study. You will also learn how to take these biological questions and turn them into a form that can we can solve with computation.
 
@@ -26,13 +26,13 @@ The purpose of the take-home component is to demonstrate your knowledge about th
 | In-Class Component | You submit answers to the questions | N/A | You do not submit answers to the questions |
 | Take-Home Component | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
 
-#### CYO Assignments
+### CYO Assignments
 
 - Pass additional take-home questions on the biology topics presented in weeks 11 & 12.
 - Read an additional chapter of the textbook and describe the biological question, why it's important, and how people have solved it as a computational question (750 words).
 - Write your own exam questions (& solutions) on the course content. You can be as creative as you want here.
 
-### 2. Programming Skills
+## 2. Programming Skills
 
 Bio131 is designed to introduce Python programming as a way to implement solutions to computational problems. There is no expectation of programming knowledge prior to this course - everything you need will be taught and practiced in lectures and labs. We also have lots of built-in support for the class - see the [support page](../support.md) for some resources.
 
@@ -49,7 +49,7 @@ Each programming assignment has multiple tests that check the outputs of your pr
 
 _Note_: The number of tests are approximate, and will be updated when the assignments are finalized.
 
-#### CYO Assignments
+### CYO Assignments
 
 - Implement additional lab-like assignments to visualize skew, visualize genome assemblies, and visualize dot plots
 - Implement an assignment to assemble a (very small) genome
@@ -57,7 +57,7 @@ _Note_: The number of tests are approximate, and will be updated when the assign
 - Implement an extension of P4 for local alignment or affine gap alignment
 - Implement another problem in the textbook (talk with Anna)
 
-### 3. Biology and Society
+## 3. Biology and Society
 
 New this year, we will read about and discuss aspects of genetic testing and its influence on society and culture (and vice versa). You will choose one of two books to focus on throughout the semester.
 
@@ -68,14 +68,14 @@ The work for this theme consists of two written reflections (B1 and B2) followed
 | Written Reflection | You write 250 or more words in response to the writing prompt | You write fewer than 250 words in response to the writing prompt or you submit the assignment after the in-lab discussion | You do not submit the assignment |
 | Discussion | You attend lab and discuss the in-lab prompt, or you cannot attend lab and you write an additional 750 words on the in-lab prompt | N/A | You do not attend the lab and you do not submit the additional reflection |
 
-#### CYO Assignments
+### CYO Assignments
 
 - Read the entire book and write a letter to an interested person (real or imaginary) about what you liked about the book, what challenged you about the book, and why the topic is important (750 words).
 - Read an excerpt from the other book (the one you did not choose) and imagine the two authors in conversation. What would they say to each other? Where would they agree and where would they disagree? (750 words).
 - Write an essay about how computation is used to determine ancestry, and the use of computational biology / bioinformatics in the books (750 words).
 - Share what you learned in some creative way (talk with Anna)
 
-### 4. In-Class Components
+## 4. In-Class Components
 
 In addition to the three themes of outside work, labor is also done in class. There are four additional pieces of work (which are marked either "completed" or "missing").
 
