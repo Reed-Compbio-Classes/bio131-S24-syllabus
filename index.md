@@ -31,7 +31,7 @@ The final version of this syllabus will be set by Monday, January 22.  Any modif
 
 **Instructor:** Anna Ritz (Biology 200B, see the [support](docs/support.md) page for student hours)
 
-**Lecture:** MWF 10-10:50am in ETC 208
+**Lecture:** MWF 10-10:50am in Chem 301
 
 **Labs:** M 1:10-3:00 in ETC 211 and Tu 3:10-5:00 in ETC 208.
 
