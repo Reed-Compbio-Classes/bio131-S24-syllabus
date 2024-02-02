@@ -8,7 +8,7 @@ nav_order: 3
 
 Bio131 has a number of support systems to help you in this class. 
 
-## Student Hours: Tu 10-11 & Th 3-4
+## Student Hours: Tu 10-11 & Th 3-5, Biology 200B
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 
