@@ -44,11 +44,13 @@ Each programming assignment has multiple tests that check the outputs of your pr
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | **P1: Python Practice** | 11 or more out of 13 tests pass | 7-10 tests pass | Fewer than 7 tests pass or you do not submit the assignment |
-| **P2: Central Dogma** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
+| **P2: Central Dogma** | 10 or more out of 13 tests pass | 6-9 tests pass | Fewer than 6 tests pass or you do not submit the assignment |
 | **P3: Motif Finding** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 | **P4: Alignment** | 8 or more out of 10 tests pass | The code runs and 3-7 tests pass | Fewer than 3 tests pass or you do not submit the assignment |
 
 _Note_: The number of tests are approximate, and will be updated when the assignments are finalized.
+
+_Note_: For P2, you are expected to at least read Part 2 and attempt Exercise 4, even if your assignment is complete before you reach Part 2.
 
 ### CYO Assignments
 
