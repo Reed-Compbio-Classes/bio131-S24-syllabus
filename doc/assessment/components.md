@@ -15,17 +15,17 @@ Each section also includes a number of choose-your-own (CYO) assignments. You wi
 
 In Bio131, you will learn about biological sequences (DNA, RNA, and protein), the relationships among these molecules, and some biological questions that researchers study. You will also learn how to take these biological questions and turn them into a form that can we can solve with computation.
 
-The work for this theme consists of two exams (E1 and E2), which each have a collaborative in-class component and an individual take-home component. The exam questions are multi-part questions, and there are usually 2 questions for the in-class component and 5-7 questions on the take-home component (depending on the amount of content the exam covers). 
+The work for this theme consists of two take-home exams (E1 and E2). The purpose of the exams is to demonstrate your knowledge about the concepts from lectures, so the exams must be done individually. The exams consist of multiple questions (usually 5-7 questions). To pass a question, you will have to follow all directions and get the majority of the question correct. The criteria for success will be clearly described for each question on the exam. You will have the opportunity to revise the questions after receiving feedback.
 
-The purpose of the in-class component is to practice answering exam questions, either on your own or with other students.  Working with other students in class is also a way for you to learn about how others approach the exam quetsions. The in-class exam questions will not be evaluated on whether they are correct, since they are practice. 
+Additionally, there is an opportunity to work on a subset of the questions from E1 and E2 in class the day that the exam is released. This in-class opportunity (formerly known as the in-class component) provides time for students to work together on a subset of the exam questions and get clarifying questions.  The purpose of the in-class opportunity is to practice answering exam questions, either on your own or with other students.  Working with other students in class is also a way for you to learn about how others approach the exam questions. The in-class opportunity is completely optional - students can choose to skip this day and complete the entire exam individually if they choose. 
 
-The purpose of the take-home component is to demonstrate your knowledge about the concepts from lectures, so the take-home component must be done individually. To pass a question on the take-home component, you will have to follow all directions and get the majority of the question correct. The criteria for success will be clearly described for each question on take-home component the exam. You will have the opportunity to revise the questions after receiving feedback.
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| In-Class Component | You submit answers to the questions | N/A | You do not submit answers to the questions |
-| Take-Home Component | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
-| **Exam Total** | Both components are complete | The take-home component is partially complete and the in-class component is complete | One or both of the components are missing |
+| **E1: Exam 1** | You pass all 6 questions | You pass 4 or 5 of the questions| You pass fewer than 3 of the questions or you do not submit the exam |
+| **E2: Exam 2** | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
+
+_Note_: the number of questions are approximate, and will be updated with the exam is finalized.
 
 ### CYO Assignments
 
@@ -64,13 +64,16 @@ _Note_: For P2, you are expected to at least read Part 2 and attempt Exercise 4,
 
 New this year, we will read about and discuss aspects of genetic testing and its influence on society and culture (and vice versa). You will choose one of two books to focus on throughout the semester.
 
-The work for this theme consists of two written reflections (B1 and B2) followed by two discussions during lab. The purpose of the written reflection is to take some time to think about the book and prepare for the in-lab discussion. Therefore, if you submit the written reflection after the in-lab discussion, it will be marked as "Partially Complete." The purpose of the in-lab discussion is to share your thoughts with other students and also hear a bit about the _other_ book you did not choose. If you cannot make the lab, you can submit an additional reflection for a "Complete" mark.
+The work for this theme consists of two written reflections (B1 and B2) followed by two discussions during lab. The purpose of the written reflection is to take some time to think about the book and prepare for the in-lab discussion. Therefore, if you submit the written reflection after the in-lab discussion, it will be marked as "Partially Complete." The purpose of the in-lab discussion is to share your thoughts with other students and also hear a bit about the _other_ book you did not choose. 
+
+Ideally, you will participate in your lab discussion. However, things come up, and if you cannot make the in-lab discussion (for example due to illness or other circumstances), you must let Anna know before lab. In that case, complete the makeup assignment below, which involves a longer reflection for the in-lab prompt. Note that this should only be completed in rare circumstances, and that you should communicate with Anna about the makeup assignment.
+
+The following table is used for both B1 and B2.
 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
-| Written Reflection | You write 250 or more words in response to the writing prompt | You write fewer than 250 words in response to the writing prompt or you submit the assignment after the in-lab discussion | You do not submit the assignment |
-| Discussion | You attend lab and discuss the in-lab prompt, or you cannot attend lab and you write an additional 750 words on the in-lab prompt | N/A | You do not attend the lab and you do not submit the additional reflection |
-| **Book Assignment Total** | The reflection and the discussion are complete | The reflection is partially complete and the discussion is complete | One or both of the reflection and the discussion are missing | 
+| Written Reflection & Discussion in Lab | You write 250 or more words in response to the writing prompt before lab and you attend lab and discuss the in-lab prompt | You attend lab and discuss the in-lab prompt, but you do not write 250 or more words in response to the writing prompt before lab | You do not attend the discussion |
+| Makeup Assignment (notify Anna) | You write 250 or more words in response to the writing prompt and you write an additional 750 words on the in-lab prompt | You write 750 words on the in-lab prompt, but you do not write 250 or more words in response to the writing prompt | You do not submit the additional reflection |
 
 ### CYO Assignments
 
