@@ -9,7 +9,7 @@ parent: Course Assessment
 
 There are three types of work that will be done outside of class: work on **biology and computational thinking concepts**, work on **programming skills**, and work on **biology and society**. In addition to these three themes, there is also some in-class work that will count towards your grade. All work will be assessed as "complete," "partially complete," or "missing" according to the criteria below. 
 
-Each section also includes a number of choose-your-own (CYO) assignments. You will have time to complete one or more of the CYO assignments near the end of the semester; they are explained in more detail in the [grading contract](gradingcontract.md).
+Each section also includes a number of choose-your-own (CYO) assignments. You will have time to complete one or more of the CYO assignments near the end of the semester; they are explained in more detail in the [grading contract](gradingcontract.md). All work for the course must be completed by the last day of finals (Thursday, May 9th) at 5pm. 
 
 ## 1. Biology and Computational Thinking
 
