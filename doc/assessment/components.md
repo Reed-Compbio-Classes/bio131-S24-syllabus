@@ -23,7 +23,7 @@ Additionally, there is an opportunity to work on a subset of the questions from 
 | | Complete | Partially Complete | Missing |
 | -- | -- | -- | -- |
 | **E1: Exam 1** | You pass all 6 questions | You pass 4 or 5 of the questions| You pass fewer than 3 of the questions or you do not submit the exam |
-| **E2: Exam 2** | You pass all questions | You pass at least 60% of the questions| You pass fewer than 60% of the questions or you do not submit the exam |
+| **E2: Exam 2** | You pass all 4 questions | You pass 2 or 3 of the questions| You pass fewer than 2 of the questions or you do not submit the exam |
 
 _Note_: the number of questions are approximate, and will be updated with the exam is finalized.
 
